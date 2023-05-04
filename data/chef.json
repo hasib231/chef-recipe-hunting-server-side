@@ -6,6 +6,26 @@
     "Years of experience": 25,
     "Numbers of recipes": 300,
     "Likes": 1200,
+    "Recipe": [
+    {
+      "recipe_name": "Butter tarts",
+      "ingredients": ["pastry dough", "butter", "brown sugar", "corn syrup", "egg", "vanilla extract", "raisins", "pecans"],
+      "cooking_method": "Preheat oven to 375°F and lightly grease a muffin tin. Roll out pastry dough and cut out 12 circles using a cookie cutter or a glass. Press the circles into the muffin cups and prick the bottoms with a fork. In a bowl, cream butter and brown sugar until fluffy. Beat in corn syrup, egg and vanilla extract. Stir in raisins and pecans. Spoon the filling into the pastry shells, filling them about two-thirds full. Bake for 15 to 20 minutes or until golden and bubbly. Let the tarts cool slightly in the pan before transferring them to a wire rack.",
+      "rating": 4.6
+    },
+    {
+      "recipe_name": "Tourtière",
+      "ingredients": ["ground pork", "ground beef", "onion", "garlic", "water", "potato", "salt", "pepper", "cinnamon", "cloves", "nutmeg", "sage", "pastry dough", "egg"],
+      "cooking_method": "In a large skillet over medium-high heat, cook ground pork and beef, breaking them up with a wooden spoon, until browned and cooked through. Drain the excess fat and transfer the meat to a large pot. Add onion, garlic, water, potato, salt, pepper, cinnamon, cloves, nutmeg and sage and bring to a boil. Reduce the heat and simmer, stirring occasionally, until the potato is soft and the liquid is almost evaporated, about 45 minutes. Preheat oven to 375°F and lightly grease a 9-inch pie plate. Roll out half of the pastry dough and fit it into the pie plate. Spoon the meat mixture over the crust and spread it evenly. Roll out the remaining pastry dough and cover the filling. Press the edges to seal and cut some slits on top. Beat egg with a little water and brush over the crust. Bake for 25 to 30 minutes or until golden and crisp. Let the pie rest for 10 minutes before slicing.",
+      "rating": 4.4
+    },
+    {
+      "recipe_name": "Bannock",
+      "ingredients": ["flour", "baking powder", "salt", "sugar", "oil", "water"],
+      "cooking_method": "In a large bowl, whisk together flour, baking powder, salt and sugar. Make a well in the center and pour in oil and water. Stir with a fork until a soft dough forms. Turn the dough out onto a lightly floured surface and knead it gently for a few minutes. Shape the dough into a round or oval loaf and place it on a greased baking sheet. Cut an X on top of the loaf with a knife. Bake in a preheated oven at 375°F for 25 to 30 minutes or until golden and cooked through. Alternatively, you can divide the dough into smaller pieces and fry them in oil over medium-high heat for about 10 minutes per side or until golden and puffy.",
+      "rating": 4
+    }
+  ],
     "Bio": "Michael Smith is one of Canada's best-known chefs and a passionate advocate for simple, sustainable home cooking. He is the host of several TV shows, the author of nine cookbooks, and the owner of the Inn at Bay Fortune in Prince Edward Island."
   },
   {
@@ -15,6 +35,26 @@
     "Years of experience": 35,
     "Numbers of recipes": 250,
     "Likes": 900,
+    "Recipe": [
+    {
+      "recipe_name": "Poutine",
+      "ingredients": ["potatoes", "cheese curds", "gravy", "salt", "oil"],
+      "cooking_method": "Cut potatoes into thin fries and fry them in oil until golden and crisp. Sprinkle salt over them. Heat gravy in a saucepan and keep it warm. Place cheese curds in a large bowl and microwave them for a few seconds until slightly melted. Pour hot gravy over cheese curds and stir gently. Serve fries topped with cheese and gravy mixture.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Nanaimo bars",
+      "ingredients": ["butter", "sugar", "cocoa powder", "egg", "graham cracker crumbs", "coconut", "walnuts", "vanilla pudding mix", "milk", "chocolate chips"],
+      "cooking_method": "In a saucepan over low heat, melt butter and stir in sugar and cocoa powder. Whisk in egg and cook until thickened, stirring constantly. Remove from heat and stir in graham cracker crumbs, coconut and walnuts. Press the mixture into a 9x9 inch baking pan and refrigerate until firm. In a bowl, whisk together pudding mix and milk until smooth. Spread over the crust and refrigerate until set. In a microwave-safe bowl, melt chocolate chips and spread over the pudding layer. Refrigerate until chocolate is hard. Cut into bars and enjoy.",
+      "rating": 4.7
+    },
+    {
+      "recipe_name": "Maple glazed salmon",
+      "ingredients": ["salmon fillets", "maple syrup", "soy sauce", "garlic", "ginger", "salt", "pepper", "oil"],
+      "cooking_method": "In a small bowl, whisk together maple syrup, soy sauce, garlic and ginger. Season salmon fillets with salt and pepper and place them in a shallow baking dish. Pour the maple mixture over the salmon and turn to coat well. Refrigerate for at least 30 minutes or up to 2 hours. Preheat oven to 375°F and bake the salmon for 15 to 20 minutes or until flaky and cooked through. Baste with the sauce halfway through cooking. Serve hot or cold with your favorite side dish.",
+      "rating": 4.8
+    }
+  ],
     "Bio": "Susur Lee is a master of fusion cuisine, blending Asian and Western flavors with flair and creativity. He has been a judge on Top Chef Canada and Chopped Canada, and has opened several acclaimed restaurants in Toronto, Singapore, and Hong Kong."
   },
   {
@@ -24,6 +64,26 @@
     "Years of experience": 30,
     "Numbers of recipes": 200,
     "Likes": 800,
+    "Recipe": [
+    {
+      "recipe_name": "Beaver tails",
+      "ingredients": ["yeast", "water", "sugar", "salt", "oil", "flour", "butter", "cinnamon"],
+      "cooking_method": "In a small bowl, dissolve yeast in warm water and let it sit for 10 minutes. In a large bowl, whisk together sugar, salt and oil. Add the yeast mixture and stir well. Gradually stir in flour until a soft dough forms. Turn the dough out onto a floured surface and knead it for about 15 minutes or until smooth and elastic. Place the dough in a greased bowl and cover it with a damp cloth. Let it rise in a warm place for about an hour or until doubled in size. Punch down the dough and divide it into 8 equal pieces. Roll out each piece into an oval shape about 1/4 inch thick. Heat oil in a large skillet over medium-high heat and fry the dough pieces for about 2 minutes per side or until golden and puffy. Drain on paper towels and brush with melted butter. Sprinkle with cinnamon sugar or your favorite toppings.",
+      "rating": 4.9
+    },
+    {
+      "recipe_name": "Split pea soup",
+      "ingredients": ["split peas", "water", "ham bone", "onion", "carrot", "celery", "bay leaf", "thyme", "salt", "pepper"],
+      "cooking_method": "Rinse split peas and place them in a large pot with water and ham bone. Bring to a boil and skim off any foam that rises to the surface. Reduce the heat and simmer, partially covered, for about an hour or until the peas are soft. Remove the ham bone and chop any meat that is attached to it. Return the meat to the pot and discard the bone. Add onion, carrot, celery, bay leaf, thyme, salt and pepper and simmer for another 30 minutes or until the vegetables are tender. Remove the bay leaf and puree the soup with an immersion blender or in batches in a blender until smooth or chunky as desired. Adjust the seasoning to taste and serve hot with crusty bread.",
+      "rating": 4.3
+    },
+    {
+      "recipe_name": "Blueberry grunt",
+      "ingredients": ["blueberries", "sugar", "lemon juice", "water", "cornstarch", "flour", "baking powder", "salt", "butter", "milk"],
+      "cooking_method": "In a large saucepan over medium-high heat, combine blueberries, sugar, lemon juice and water and bring to a boil. Reduce the heat and simmer, stirring occasionally, for about 15 minutes or until the blueberries are soft and juicy. Dissolve cornstarch in a little water and stir it into the blueberry mixture to thicken it slightly. In a medium bowl, whisk together flour, baking powder and salt. Cut in butter with a pastry blender or a fork until crumbly. Stir in milk to make a soft dough. Drop the dough by spoonfuls over the blueberry mixture, leaving some space between them. Cover the saucepan with a tight-fitting lid and cook over low heat for about 15 minutes or until the dumplings are cooked through and fluffy. Do not lift the lid during cooking. Serve hot with whipped cream or ice cream.",
+      "rating": 4.2
+    }
+  ],
     "Bio": "Lynn Crawford is a celebrity chef and cookbook author who has appeared on Iron Chef America, Restaurant Makeover, and Pitchin' In. She is the co-owner and executive chef of Ruby Watchco, a farm-to-table restaurant in Toronto, and the founder of Ruby Eats, a gourmet food shop."
   },
   {
@@ -33,6 +93,26 @@
     "Years of experience": 20,
     "Numbers of recipes": 150,
     "Likes": 700,
+    "Recipe": [
+    {
+      "recipe_name": "Montreal smoked meat sandwich",
+      "ingredients": ["rye bread", "mustard", "smoked meat", "pickles"],
+      "cooking_method": "Toast rye bread lightly and spread mustard on both slices. Pile smoked meat on one slice and top with the other slice. Cut in half and serve with pickles on the side.",
+      "rating": 4.1
+    },
+    {
+      "recipe_name": "Maple butter tarts",
+      "ingredients": ["pastry dough", "butter", "brown sugar", "maple syrup", "egg", "vanilla extract", "pecans"],
+      "cooking_method": "Preheat oven to 375°F and lightly grease a muffin tin. Roll out pastry dough and cut out 12 circles using a cookie cutter or a glass. Press the circles into the muffin cups and prick the bottoms with a fork. In a bowl, cream butter and brown sugar until fluffy. Beat in maple syrup, egg and vanilla extract. Stir in pecans. Spoon the filling into the pastry shells, filling them about two-thirds full. Bake for 15 to 20 minutes or until golden and bubbly. Let the tarts cool slightly in the pan before transferring them to a wire rack.",
+      "rating": 4.7
+    },
+    {
+      "recipe_name": "Pouding chômeur",
+      "ingredients": ["butter", "brown sugar", "water", "flour", "baking powder", "salt", "milk", "maple syrup"],
+      "cooking_method": "In a small saucepan over medium heat, melt butter and stir in brown sugar and water. Bring to a boil and then remove from heat. Pour the sauce into a 9x13 inch baking dish and set aside. In a large bowl, whisk together flour, baking powder and salt. Stir in milk to make a thick batter. Drop the batter by spoonfuls over the sauce, spreading it evenly. Drizzle maple syrup over the batter. Bake in a preheated oven at 350°F for 25 to 30 minutes or until golden and bubbly. Serve hot or cold with whipped cream or ice cream.",
+      "rating": 4.6
+    }
+  ],
     "Bio": "Chuck Hughes is a charismatic chef and TV personality who loves to cook with fresh, local ingredients. He is the host of Chuck's Day Off and Chuck's Eat the Street, and the co-owner and executive chef of Garde Manger and Le Bremner, two popular restaurants in Montreal."
   },
   {
@@ -42,6 +122,26 @@
     "Years of experience": 15,
     "Numbers of recipes": 100,
     "Likes": 600,
+    "Recipe": [
+    {
+      "recipe_name": "Caesar salad",
+      "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "mayonnaise", "lemon juice", "garlic", "anchovy paste", "Worcestershire sauce", "salt", "pepper"],
+      "cooking_method": "Wash and dry romaine lettuce and tear it into bite-sized pieces. Place it in a large salad bowl and toss with croutons and parmesan cheese. In a small bowl, whisk together mayonnaise, lemon juice, garlic, anchovy paste, Worcestershire sauce, salt and pepper. Drizzle the dressing over the salad and toss well to coat. Serve immediately or refrigerate until ready to serve.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Butter chicken",
+      "ingredients": ["chicken", "yogurt", "garlic", "ginger", "garam masala", "turmeric", "salt", "oil", "onion", "tomato paste", "chicken broth", "cream", "cilantro"],
+      "cooking_method": "Cut chicken into bite-sized pieces and place them in a large ziplock bag. In a small bowl, stir together yogurt, garlic, ginger, garam masala, turmeric and salt. Pour the marinade over the chicken and seal the bag. Refrigerate for at least 4 hours or up to overnight. Heat oil in a large skillet over medium-high heat and cook onion until soft and golden, stirring occasionally, for about 15 minutes. Add tomato paste and cook for another 5 minutes, stirring frequently. Add chicken broth and bring to a boil. Reduce the heat and simmer until slightly thickened, about 10 minutes. Preheat oven to 375°F and line a baking sheet with foil. Arrange the chicken pieces on the prepared baking sheet and bake for 15 to 20 minutes or until cooked through. Transfer the chicken to the skillet with the sauce and stir to combine. Stir in cream and cilantro and simmer for another 5 minutes or until heated through. Serve hot with rice or naan bread.",
+      "rating": 4.8
+    },
+    {
+      "recipe_name": "Apple pie",
+      "ingredients": ["pastry dough", "apples", "sugar", "flour", "cinnamon", "nutmeg", "lemon juice", "butter", "egg"],
+      "cooking_method": "Preheat oven to 375°F and lightly grease a 9-inch pie plate. Roll out half of the pastry dough and fit it into the pie plate. Peel and core apples and slice them thinly. In a large bowl, toss apples with sugar, flour, cinnamon, nutmeg and lemon juice. Spoon the apple mixture over the crust and dot with butter. Roll out the remaining pastry dough and cover the filling. Press the edges to seal and cut some slits on top. Beat egg with a little water and brush over the crust. Bake for 40 to 45 minutes or until golden and bubbly. Let the pie cool slightly before slicing.",
+      "rating": 4.7
+    }
+  ],
     "Bio": "Anna Olson is a pastry chef and baking expert who has hosted several shows on Food Network Canada, including Bake with Anna Olson, Fresh with Anna Olson, and Sugar. She is also the author of eight bestselling cookbooks on baking and cooking."
   },
   {
@@ -51,6 +151,26 @@
     "Years of experience": 25,
     "Numbers of recipes": 150,
     "Likes": 500,
+    "Recipe": [
+    {
+      "recipe_name": "Macaroni and cheese",
+      "ingredients": ["macaroni", "butter", "flour", "milk", "cheddar cheese", "salt", "pepper", "bread crumbs"],
+      "cooking_method": "Cook macaroni in a large pot of boiling salted water until al dente, about 8 to 10 minutes. Drain and return to the pot. In a medium saucepan over medium heat, melt butter and whisk in flour. Cook, stirring constantly, for about 2 minutes or until smooth and bubbly. Gradually whisk in milk and bring to a boil. Reduce the heat and simmer, stirring occasionally, for about 10 minutes or until thickened. Stir in cheese, salt and pepper until melted and smooth. Pour the cheese sauce over the macaroni and stir to coat well. Transfer the mixture to a 9x13 inch baking dish and sprinkle with bread crumbs. Bake in a preheated oven at 375°F for 15 to 20 minutes or until golden and bubbly.",
+      "rating": 4.6
+    },
+    {
+      "recipe_name": "Banana bread",
+      "ingredients": ["butter", "sugar", "eggs", "bananas", "flour", "baking soda", "salt", "walnuts"],
+      "cooking_method": "Preheat oven to 350°F and grease a 9x5 inch loaf pan. In a large bowl, cream butter and sugar until light and fluffy. Add eggs one at a time, beating well after each addition. Mash bananas with a fork and stir them into the creamed mixture. In a medium bowl, whisk together flour, baking soda and salt. Gradually stir the dry ingredients into the wet ingredients until well combined. Fold in walnuts if desired. Pour the batter into the prepared loaf pan and bake for 50 to 60 minutes or until a toothpick inserted in the center comes out clean. Let the bread cool slightly in the pan before transferring it to a wire rack.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Chicken noodle soup",
+      "ingredients": ["chicken", "water", "onion", "carrot", "celery", "bay leaf", "parsley", "thyme", "salt", "pepper", "noodles"],
+      "cooking_method": "Place chicken in a large pot and cover with water. Bring to a boil and skim off any foam that rises to the surface. Add onion, carrot, celery, bay leaf, parsley, thyme, salt and pepper and simmer, partially covered, for about an hour or until the chicken is tender. Remove the chicken from the pot and let it cool slightly. Shred the meat and discard the skin and bones. Return the meat to the pot and bring the soup to a boil. Add noodles and cook for about 10 minutes or until tender. Adjust the seasoning to taste and serve hot with crusty bread.",
+      "rating": 4.4
+    }
+  ],
     "Bio": "Vikram Vij is a renowned chef and restaurateur who specializes in Indian cuisine. He is the co-owner of Vij's and Rangoli in Vancouver, and has appeared as a guest judge on Top Chef Canada and Dragons' Den. He is also the author of three cookbooks and a line of packaged foods."
   }
 ]
