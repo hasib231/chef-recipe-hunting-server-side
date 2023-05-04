@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "Chef Picture": "https://example.com/chef1.jpg",
-    "Chef Name": "Michael Smith",
-    "Years of experience": 25,
-    "Numbers of recipes": 300,
+    "Chef_Picture": "https://example.com/chef1.jpg",
+    "Chef_Name": "Michael Smith",
+    "Years_of_experience": 25,
+    "Numbers_of_recipes": 300,
     "Likes": 1200,
     "Recipe": [
     {
@@ -30,10 +30,10 @@
   },
   {
     "id": "2",
-    "Chef Picture": "https://example.com/chef2.jpg",
-    "Chef Name": "Susur Lee",
-    "Years of experience": 35,
-    "Numbers of recipes": 250,
+    "Chef_Picture": "https://example.com/chef2.jpg",
+    "Chef_Name": "Susur Lee",
+    "Years_of_experience": 35,
+    "Numbers_of_recipes": 250,
     "Likes": 900,
     "Recipe": [
     {
@@ -59,10 +59,10 @@
   },
   {
     "id": "3",
-    "Chef Picture": "https://example.com/chef3.jpg",
-    "Chef Name": "Lynn Crawford",
-    "Years of experience": 30,
-    "Numbers of recipes": 200,
+    "Chef_Picture": "https://example.com/chef3.jpg",
+    "Chef_Name": "Lynn Crawford",
+    "Years_of_experience": 30,
+    "Numbers_of_recipes": 200,
     "Likes": 800,
     "Recipe": [
     {
@@ -88,10 +88,10 @@
   },
   {
     "id": "4",
-    "Chef Picture": "https://example.com/chef4.jpg",
-    "Chef Name": "Chuck Hughes",
-    "Years of experience": 20,
-    "Numbers of recipes": 150,
+    "Chef_Picture": "https://example.com/chef4.jpg",
+    "Chef_Name": "Chuck Hughes",
+    "Years_of_experience": 20,
+    "Numbers_of_recipes": 150,
     "Likes": 700,
     "Recipe": [
     {
@@ -117,10 +117,10 @@
   },
   {
     "id": "5",
-    "Chef Picture": "https://example.com/chef5.jpg",
-    "Chef Name": "Anna Olson",
-    "Years of experience": 15,
-    "Numbers of recipes": 100,
+    "Chef_Picture": "https://example.com/chef5.jpg",
+    "Chef_Name": "Anna Olson",
+    "Years_of_experience": 15,
+    "Numbers_of_recipes": 100,
     "Likes": 600,
     "Recipe": [
     {
@@ -146,10 +146,10 @@
   },
   {
     "id": "6",
-    "Chef Picture": "https://example.com/chef6.jpg",
-    "Chef Name": "Vikram Vij",
-    "Years of experience": 25,
-    "Numbers of recipes": 150,
+    "Chef_Picture": "https://example.com/chef6.jpg",
+    "Chef_Name": "Vikram Vij",
+    "Years_of_experience": 25,
+    "Numbers_of_recipes": 150,
     "Likes": 500,
     "Recipe": [
     {
