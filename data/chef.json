@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "Chef Picture": "https://example.com/chef1.jpg",
     "Chef Name": "Michael Smith",
     "Years of experience": 25,
@@ -29,7 +29,7 @@
     "Bio": "Michael Smith is one of Canada's best-known chefs and a passionate advocate for simple, sustainable home cooking. He is the host of several TV shows, the author of nine cookbooks, and the owner of the Inn at Bay Fortune in Prince Edward Island."
   },
   {
-    "id": 2,
+    "id": "2",
     "Chef Picture": "https://example.com/chef2.jpg",
     "Chef Name": "Susur Lee",
     "Years of experience": 35,
@@ -58,7 +58,7 @@
     "Bio": "Susur Lee is a master of fusion cuisine, blending Asian and Western flavors with flair and creativity. He has been a judge on Top Chef Canada and Chopped Canada, and has opened several acclaimed restaurants in Toronto, Singapore, and Hong Kong."
   },
   {
-    "id": 3,
+    "id": "3",
     "Chef Picture": "https://example.com/chef3.jpg",
     "Chef Name": "Lynn Crawford",
     "Years of experience": 30,
@@ -87,7 +87,7 @@
     "Bio": "Lynn Crawford is a celebrity chef and cookbook author who has appeared on Iron Chef America, Restaurant Makeover, and Pitchin' In. She is the co-owner and executive chef of Ruby Watchco, a farm-to-table restaurant in Toronto, and the founder of Ruby Eats, a gourmet food shop."
   },
   {
-    "id": 4,
+    "id": "4",
     "Chef Picture": "https://example.com/chef4.jpg",
     "Chef Name": "Chuck Hughes",
     "Years of experience": 20,
@@ -116,7 +116,7 @@
     "Bio": "Chuck Hughes is a charismatic chef and TV personality who loves to cook with fresh, local ingredients. He is the host of Chuck's Day Off and Chuck's Eat the Street, and the co-owner and executive chef of Garde Manger and Le Bremner, two popular restaurants in Montreal."
   },
   {
-    "id": 5,
+    "id": "5",
     "Chef Picture": "https://example.com/chef5.jpg",
     "Chef Name": "Anna Olson",
     "Years of experience": 15,
@@ -145,7 +145,7 @@
     "Bio": "Anna Olson is a pastry chef and baking expert who has hosted several shows on Food Network Canada, including Bake with Anna Olson, Fresh with Anna Olson, and Sugar. She is also the author of eight bestselling cookbooks on baking and cooking."
   },
   {
-    "id": 6,
+    "id": "6",
     "Chef Picture": "https://example.com/chef6.jpg",
     "Chef Name": "Vikram Vij",
     "Years of experience": 25,
